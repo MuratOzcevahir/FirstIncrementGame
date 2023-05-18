@@ -1,0 +1,85 @@
+body {
+    background-color: rgb(25, 25, 25);
+    color: white;
+}
+
+ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+/* LEFT SOCIAL HOLDER START */
+#globalLeftSocialHolder {
+    top: 35%;
+}
+#globalLeftSocialHolder span {
+    writing-mode: vertical-rl;
+    text-align: center;
+    rotate: 180deg;
+}
+
+#globalLeftSocialHolder i {
+    padding: 3px;
+    top: 45%!important;
+}
+
+/* LEFT SOCIAL HOLDER END */
+
+
+/* HEADER MENU START */
+#headerHolder {
+    background-color: rgb(233, 32, 32);
+}
+
+#headerHolder #headerMenu ul {
+    display: flex;
+}
+
+#headerHolder #headerMenu ul li {
+    padding: 15px;
+}
+
+#headerHolder #headerMenu ul li a {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+#headerHolder #headerMenu a {
+    color: white;
+}
+
+#headerHolder #headerMenu a:hover {
+    color: rgb(153, 9, 9);
+}
+#headerHolder #headerMenu .active  {
+    color: rgb(153, 9, 9);
+}
+
+/* HEADER MENU END */
+/* FOOTER START  */
+#footerHolder {
+    height: 90px;
+    background-color: rgb(14, 139, 0);
+}
+
+#footerHolder span {
+    font-size: 60px;
+}
+
+#footerHolder i {
+    padding: 0px 30px;
+    font-size: 30px;
+
+}
+
+#footerHolder i:last-child {
+    padding: 0px;
+}
+
+/* FOOTER END */

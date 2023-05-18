@@ -1,0 +1,25 @@
+{
+  "GameData": {
+    "User": {
+      "UserGeneral": {
+        "id": 1,
+        "name": "murat",
+        "surname": "etc"
+      },
+      "UserGameData": {
+        "GeneralGameData": {
+          "wood": 70,
+          "coin": 99999,
+          "woodCutter": 0,
+          "storage": 100
+        },
+        "GeneralGameSetting": {
+          "IsAutoSell": false,
+          "coin": 99999,
+          "woodCutter": 0,
+          "storage": 100
+        }
+      }
+    }
+  }
+}
